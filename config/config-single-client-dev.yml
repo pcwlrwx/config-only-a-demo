@@ -1,5 +1,5 @@
 data:
   env: localhost-dev-edit888
   user:
-    username: lipengzhen-dev
-    password: password-dev
+    username: lipengzhen-dev-update
+    password: password-dev-update
