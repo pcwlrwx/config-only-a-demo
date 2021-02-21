@@ -1,5 +1,5 @@
 data:
-  env: localhost-dev-edit888
+  env: localhost-dev-testRefreshScope
   user:
-    username: lipengzhen-dev-update
-    password: password-dev-update
+    username: lipengzhen-dev-testRefreshScope
+    password: password-dev-testRefreshScope
